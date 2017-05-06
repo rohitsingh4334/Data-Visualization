@@ -7,3 +7,4 @@ crossfilter.js
 Anaconda for python 3.6
 Spyder
 MongoDB
+
