@@ -1,0 +1,9 @@
+Python = 3.6
+Flask latest version.
+Pymongo latest version
+dc.js
+d3.js
+crossfilter.js
+Anaconda for python 3.6
+Spyder
+MongoDB
