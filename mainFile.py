@@ -7,7 +7,7 @@ from bson.json_util import dumps
 
 app = Flask(__name__)
 
-
+#Db connection details
 Mongo_Host = 'localhost'
 Mongo_Port = 27017
 DB_Name = 'mydb'
@@ -15,6 +15,7 @@ Collection_Name = 'mycollection'
 FIELDS = {"_id": False,"Brand":True,"Starbucks":True,"Store_Name":True,"Ownership_Type":True,
           "Street_Address":True,"City":True,"State/Province":True,"Country":True,"Longitude":True,"Latitude":True}
 
+#main file where we can show or data visualization 
 @app.route("/")
 def index():
     return render_template('index.html')
