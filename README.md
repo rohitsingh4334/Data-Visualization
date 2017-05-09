@@ -9,6 +9,6 @@ kaggle of Starbucks Stores location data.
 # Covering a wide range of technologies: 
   MongoDB for storing and querying the data, Python for building a web server that interacts with MongoDB and serving html pages,
   Javascript libraries d3.js, dc.js and crossfilter.js for building interactive charts.
-#Future Scope:
+# Future Scope:
 User can interact with dropdown select item and Chloropeth map will be add soon..
 
