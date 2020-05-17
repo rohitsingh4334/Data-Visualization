@@ -12,3 +12,5 @@ kaggle of Starbucks Stores location data.
 # Future Scope:
 User can interact with dropdown select item and Chloropeth map will be add soon..
 
+### Output:
+![alt text](Data-visualization(output).gif "Output")
